@@ -2,7 +2,7 @@
 This project demonstrates a 3-tier architecture on AWS using Terraform. It includes VPC, Public/Private Subnets, NAT Gateway, EC2 servers, RDS Database, and an Application Load Balancer. Designed for high availability, modularity, and security.
 3-Tier Architecture
 
-![image alt](https://github.com/pravin-1040/Secure-Scalable-3-Tier-Cloud-Infrastructure-on-AWS/blob/main/architecture-diagram.png?raw=true)
+![image alt](https://github.com/pravin-1040/Scalable-3-Tier-Cloud-Infrastructure-on-AWS/blob/main/architecture-diagram.png?raw=true)
 
 ## Features
 - Multi-AZ VPC with Public, Private, and DB Subnets
@@ -50,7 +50,7 @@ terraform plan
 5.Apply Terraform configuration:
 terraform apply
 
-![image alt](https://github.com/pravin-1040/Secure-Scalable-3-Tier-Cloud-Infrastructure-on-AWS/blob/main/apply_success.PNG?raw=true)
+![image alt](https://github.com/pravin-1040/Scalable-3-Tier-Cloud-Infrastructure-on-AWS/blob/main/apply_success.PNG?raw=true)
 
 6.Access outputs:
 terraform output
